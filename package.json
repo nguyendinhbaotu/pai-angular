@@ -1,8 +1,8 @@
 {
-    "name": "product-management",
+    "name": "pai-angular",
     "version": "1.0.0",
-    "author": "Deborah Kurata",
-    "description": "Package for the Acme Product Management sample application",
+    "author": "Tu Nguyen",
+    "description": "Personal AI using Angular as User Interface",
     "scripts": {
         "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "tsc": "tsc",
